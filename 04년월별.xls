@@ -1,0 +1,347 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+
+<style>
+html { font-family:'맑은 고딕',Calibri, Arial, Helvetica, sans-serif; font-size:11pt; background-color:white }
+.tbl_tit{width:100%;}
+.tbl_tit em{font-weight: bold;font-style: normal}
+.tbl_tit_sub{background-color: black;color:white;font-size: 13pt;font-weight: bold;}
+.tbl_tit_ser{font-size:10pt; font-weight: bold;background-color:#D8D8D8}
+.tbl_tit_desc{color:#000000;  font-size:9pt}
+.board_tit{font-weight: bold;color: #7891B0;font-size: 11pt;margin-top:10px;margin-bottom: 0px;}
+.tbl_exc{font-size: 10pt;}
+.tbl_exc tr{height:15pt;}
+.tbl_exc th{height:15pt;background-color: black;color:white;font-weight: bold;border-left: 1px solid #FFF;border-right: 1px solid #FFF;}
+.tbl_exc tr.sumTr{background-color:#777; height: 40px; text-align: right;color:white;font-weight: bold;}
+.tal {text-align:left !important;}
+.tar {text-align:right !important;}
+.tac {text-align:center !important;}
+.tbl_exc td {text-align: center;}
+</style>
+</head>
+
+<body>
+	<table border="0" class="tbl_tit">
+		<tr>
+			<td class="tbl_tit_sub" colspan="15">■ 총 관객수 및 매출액_월별</td>
+		</tr>
+		<tr>	
+			<td class="tbl_tit_desc" colspan="15">- <em>조회일</em>: 2023-02-16</td>
+		</tr>
+		<tr>
+			<td class="tbl_tit_desc" colspan="15">- <em>출처</em>: 영화진흥위원회 통합전산망 (http://www.kobis.or.kr)</td>
+		</tr>
+		<tr>
+			<td class="tbl_tit_ser" colspan="15">▶ 검색조건 [ 조회기간 : 2004 ]</td>
+		</tr>
+	</table>
+		
+	<table border="1" class="tbl_exc">		
+		<thead>
+			<tr>
+				<th scope="col" rowspan="2"><span>년월</span></td>
+				<th scope="col" colspan="5" style="border-bottom: 1px solid #FFF;"><span>한국</span></th>
+				<th scope="col" colspan="5" style="border-bottom: 1px solid #FFF;"><span>외국</span></th>
+				<th scope="col" colspan="4" style="border-bottom: 1px solid #FFF;"><span>전체</span></th>
+			</tr>
+			<tr>
+				<th scope="col"><span>개봉편수</span></th>
+				<th scope="col"><span>상영편수</span></th>
+				<th scope="col"><span>매출액</span></th>
+				<th scope="col"><span>관객수</span></th>
+				<th scope="col"><span>점유율</span></th>
+
+				<th scope="col"><span>개봉편수</span></th>
+				<th scope="col"><span>상영편수</span></th>
+				<th scope="col"><span>매출액</span></th>
+				<th scope="col"><span>관객수</span></th>
+				<th scope="col"><span>점유율</span></th>
+
+				<th scope="col"><span>개봉편수</span></th>
+				<th scope="col"><span>상영편수</span></th>
+				<th scope="col"><span>매출액</span></th>
+				<th scope="col"><span>관객수</span></th>
+			</tr>
+
+
+		</thead>
+		<tbody>			
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-01</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">5</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">10</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">13278767500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">2096038</td>
+					<td class="tar" style=mso-number-format:"0.0%">68.1%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">8</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">18</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">6150908500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">980029</td>
+					<td class="tar" style=mso-number-format:"0.0%">31.9%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">13</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">28</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">19429676000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">3076067</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-02</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">6</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">12</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">17097369000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">2729928</td>
+					<td class="tar" style=mso-number-format:"0.0%">87.7%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">22</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">27</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">2441309000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">383457</td>
+					<td class="tar" style=mso-number-format:"0.0%">12.3%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">28</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">39</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">19538678000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">3113385</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-03</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">7</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">13</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">9504566000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">1497349</td>
+					<td class="tar" style=mso-number-format:"0.0%">81.1%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">14</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">29</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">2273301500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">348019</td>
+					<td class="tar" style=mso-number-format:"0.0%">18.9%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">21</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">42</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">11777867500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">1845368</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-04</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">6</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">18</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">12939518000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">2075441</td>
+					<td class="tar" style=mso-number-format:"0.0%">62.7%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">29</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">30</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">7889168000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">1232222</td>
+					<td class="tar" style=mso-number-format:"0.0%">37.3%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">35</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">48</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">20828686000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">3307663</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-05</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">4</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">12</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">14805908900</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">2290648</td>
+					<td class="tar" style=mso-number-format:"0.0%">60.0%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">10</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">26</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">9872392800</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">1526518</td>
+					<td class="tar" style=mso-number-format:"0.0%">40.0%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">14</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">38</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">24678301700</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">3817166</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-06</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">6</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">20</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">15723144000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">2455387</td>
+					<td class="tar" style=mso-number-format:"0.0%">36.8%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">16</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">23</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">27056430500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">4213074</td>
+					<td class="tar" style=mso-number-format:"0.0%">63.2%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">22</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">43</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">42779574500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">6668461</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-07</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">9</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">15</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">27214332000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">4310163</td>
+					<td class="tar" style=mso-number-format:"0.0%">45.6%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">9</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">18</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">32507104000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">5141372</td>
+					<td class="tar" style=mso-number-format:"0.0%">54.4%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">18</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">33</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">59721436000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">9451535</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-08</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">8</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">24</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">39191397500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">6183274</td>
+					<td class="tar" style=mso-number-format:"0.0%">62.8%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">19</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">34</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">23375706500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">3662711</td>
+					<td class="tar" style=mso-number-format:"0.0%">37.2%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">27</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">58</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">62567104000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">9845985</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-09</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">7</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">28</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">29394988500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">4611922</td>
+					<td class="tar" style=mso-number-format:"0.0%">60.7%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">21</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">51</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">19307098000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">2985162</td>
+					<td class="tar" style=mso-number-format:"0.0%">39.3%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">28</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">79</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">48702086500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">7597084</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-10</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">5</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">27</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">26876634000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">4252053</td>
+					<td class="tar" style=mso-number-format:"0.0%">68.0%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">16</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">40</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">12984168000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">2002346</td>
+					<td class="tar" style=mso-number-format:"0.0%">32.0%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">21</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">67</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">39860802000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">6254399</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-11</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">5</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">36</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">22152223006</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">3503840</td>
+					<td class="tar" style=mso-number-format:"0.0%">58.1%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">20</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">45</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">16220020500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">2528457</td>
+					<td class="tar" style=mso-number-format:"0.0%">41.9%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">25</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">81</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">38372243506</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">6032297</td>
+				</tr>
+			
+				<tr>
+					
+					
+					<td style=mso-number-format:"yyyy-mm">2004-12</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">6</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">23</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">10964402000</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">1735390</td>
+					<td class="tar" style=mso-number-format:"0.0%">21.0%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">22</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">70</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">41508048500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">6509826</td>
+					<td class="tar" style=mso-number-format:"0.0%">79.0%</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">28</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">93</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">52472450500</td>
+					<td class="tar" style=mso-number-format:"\#\,\#\#0\">8245216</td>
+				</tr>
+			
+			
+				<tr class="sumTr">
+					<td>합계</td>
+					<td class="tar">74</td>
+					<td class="tar">238</td>
+					<td class="tar">239,143,250,406</td>
+					<td class="tar">37,741,433</td>
+					<td class="tar" style=mso-number-format:"0.0%">54.5%</td>
+					<td class="tar">206</td>
+					<td class="tar">411</td>
+					<td class="tar">201,585,655,800</td>
+					<td class="tar">31,513,193</td>
+					<td class="tar" style=mso-number-format:"0.0%">45.5%</td>
+					<td class="tar">280</td>
+					<td class="tar">649</td>
+					<td class="tar">440,728,906,206</td>
+					<td class="tar">69,254,626</td>
+				</tr>
+			
+		</tbody>
+	</table>
+</body>
+</html>
+
+
+
